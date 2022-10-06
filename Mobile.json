@@ -1,0 +1,82 @@
+[
+    {
+        "category_id":1,
+        "category_name":"mobile",
+        "Product_id" :1 ,
+        "Product_brand":" Samsung galaxy" ,
+        "Model_name":  " Galaxy A53" ,
+        "Product-img": "https://ibb.co/c8sqjkL" ,
+        "Color": "Awesome Black" ,
+        "Highlights_1": " 8 GB RAM & 256 GB ROM | Expendable upto 1 TB" ,
+        "Highlights_2": "16.51 cm (6.5 inch) Full HD + Display" ,
+        "Highlights_3": "64MP + 12MP + 5MP + 5MP | 32MP Front Camera" ,
+        "Highlights_4": "5000 mAh Lithium Ion Battery",
+        "Price": "34,999",
+        "Rating": "4.1" 
+
+    },
+    {
+        "category_id":1,
+        "category_name":"mobile",
+        "Product-id" :2 ,
+        "Product_brand": "Samsung" ,
+        "Model_name":"Galaxy Z Fold4 5G"  ,
+        "Product-img":"https://ibb.co/c8zxWTp" ,
+        "Color": "Phantom Black" ,
+        "Highlights_1": "12 GB RAM | 512 GB ROM" ,
+        "Highlights_2": "19.3 cm(7.6 inch)Full HD+ Display" ,
+        "Highlights_3": "50MP+ 12MP+ 10MP | 10MP Front Camera" ,
+        "Highlights_4": "4400 mAh Lithium Ion Battery",
+        "Price": "1,64,999",
+        "Rating": 2.5 
+
+    },
+    {
+        "category_id":1,
+        "category_name":"mobile",
+        "Product-id" :3,
+        "Product_brand":"Samsung" ,
+        "Model_name": "Galaxy Z Flip4 5G" ,
+        "Product-img": "https://ibb.co/pPzYNSz",
+        "Color": "Pink Gold",
+        "Highlights_1": " 8 GB RAM & 128 GB ROM"  ,
+        "Highlights_2": "17.02 cm(6.7 inch)Full HD+ Display"  ,
+        "Highlights_3": "12MP + 12MP | 10MP Front Camera" ,
+        "Highlights_4": "3700 mAh Lithium Ion Battery" , 
+        "Price": "89,999",
+        "Rating": 3.6 
+
+    },
+    {
+        "category_id":1,
+        "category_name":"mobile",
+        "Product-id" :4 ,
+        "Product_brand":"APPLE" ,
+        "Model_name": "iphone 11 Pro Max" ,
+        "Product-img": "https://ibb.co/GpnVsK5",
+        "Color": "Gold" ,
+        "Highlights_1": "64 GB ROM " ,
+        "Highlights_2":  "16.51 cm (6.5 inch) Super Retina XDR Display",
+        "Highlights_3":  "12MP+ 12MP+ 12MP | 12MP Front Camera",
+        "Highlights_4": "A13 Bionic Chip Processor",
+        "Price":"1,09,990" ,
+        "Rating": 4.7
+
+    },
+    {
+        "category_id":1,
+        "category_name":"mobile",
+        "Product-id" :5,
+        "Product_brand": "APPLE" ,
+        "Model_name": "iphone 13" ,
+        "Product-img": "https://ibb.co/VQsrgv1",
+        "Color": "Red",
+        "Highlights_1": "128 GB ROM " ,
+        "Highlights_2": "15.49 cm (6.1 inch) Super Retina XDR Display" ,
+        "Highlights_3":  "12MP+ 12MP | 12MP Front Camera",
+        "Highlights_4":  "A15 Bionic Chip Processor",
+        "Price": "58,990",
+        "Rating": 4.7
+
+    }
+]

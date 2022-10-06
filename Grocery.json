@@ -1,0 +1,88 @@
+[
+    {
+        "category_id":4,
+        "category_name":"Grocery",
+        "Sub_category_id":"1",
+        "Sub_category_name":"Staples",
+        "Product_id":"1",
+        "Product_name":"Chana Dal",
+        "Product_brand":"Unbranded",
+        "Product_Img":"https://ibb.co/ryXhmvC",
+        "Manufacturing Date":"14 Aug 2022",
+        "Expiry Date":"09 feb 2023",
+        "Quantity":"1 Kg",
+        "Price":"77",
+        "Highlights_1":"Easy Doorstep Return",
+        "Highlights_2":"Schedule your delivery",
+        "Highlights_3":"Cash on Delivery available"
+
+
+    },
+    {
+        "category_id":4,
+        "category_name":"Grocery",
+        "Sub_category_id":"2",
+        "Sub_category_name":"Snacks & Beverages",
+        "Product_id":"1",
+        "Product_name":"Pringles Original Potato Chips ",
+        "Product_brand":"Pringles ",
+        "Product_Img":"https://ibb.co/pw8SBsG",
+        "Manufacturing Date":" 05 Jun 2022",
+        "Expiry Date":"30 May 2023",
+        "Quantity":"107 g",
+        "Price":"90",
+        "Highlights_1":"Flavor: Plain",
+        "Highlights_2":"Shelf Life: 12 Months",
+        "Highlights_3":"Container Type: Can"
+
+    },
+    {
+        "category_id":4,
+        "category_name":"Grocery",
+        "Sub_category_id":"3",
+        "Sub_category_name":"Packaged Food",
+        "Product_id":"1",
+        "Product_name":"Kellogg's Original Corn Flakes Pouch",
+        "Product_brand":"Kellogg's",
+        "Product_Img":"https://ibb.co/DVnsTZ7",
+        "Manufacturing Date":"05 Aug 2022",
+        "Expiry Date":"01 May 2023",
+        "Quantity":"1.2 kg",
+        "Price":"299",
+        "Highlights_1":"Type: Flakes"
+
+
+    },
+    {
+        "category_id":4,
+        "category_name":"Grocery",
+        "Sub_category_id":"4",
+        "Sub_category_name":"Household Care",
+        "Product_id":"1",
+        "Product_name":"Harpic Power Fresh 6 Marine Rim Block",
+        "Product_brand":"Harpic",
+        "Product_Img":"https://ibb.co/PjnSCjc",
+        "Manufacturing Date":"22 May 2022",
+        "Expiry Date":"10 May 2024",
+        "Quantity":"35 g",
+        "Price":"132",
+        "Highlights_1":"Type: Rim Block"
+    
+    },
+    {
+        "category_id":4,
+        "category_name":"Grocery",
+        "Sub_category_id":"5",
+        "Sub_category_name":"Dairy & Egg",
+        "Product_id":"1",
+        "Product_name":"Nutralite DoodhShakti Probiotic Butter Spread",
+        "Product_brand":"Nutralite",
+        "Product_Img":"https://ibb.co/kBthQjY",
+        "Manufacturing Date":"26 Sep 2022",
+        "Expiry Date":"22 Jun 2023",
+        "Quantity":"500 g",
+        "Price":"195",
+        "Highlights_1":"Flavor: Plain"
+
+    }
+]

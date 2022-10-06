@@ -1,0 +1,105 @@
+[
+    {
+        "category_id":3,
+        "category_name":"Home&Funiture",
+        "Sub_category_id":1,
+        "Sub_category_name":"Kitchen, Cookware & Serveware",
+        "Product_name":"Butterfly Rapid 2 Burner Glass Manual Gas Stove",
+        "Product_id":"1",
+        "Product_Img":"https://ibb.co/sW8nRDM",
+        "Product_brand":"Butterfly",
+        "Price":"1,849",
+        "Highlights_1":"type:Manual Gas Stove",
+        "Highlights_2":"Burner Type:Tri Pin Burner",
+        "Highlights_3":"Number of Burners:2 | Body Material: Glass",
+        "Highlights_4":"Black",
+        "Dimension":"60 cm x 10.5 cm",
+        "Warranty": "1 Year Warrantry from date of purchase",
+        "Return": "7 Days Return Policy",
+        "Number of Burners":"2",
+        "Ratings":"4.2"
+
+    },
+    {
+        "category_id":3,
+        "category_name":"Home&Funiture",
+        "Sub_category_id":1,
+        "Sub_category_name":"Kitchen, Cookware & Serveware",
+        "Product_name":"Pigeon Popular 3 Burner Glass Cooktop Glass Manual Gas Stove ",
+        "Product_id":"2",
+        "Product_Img":"https://ibb.co/6mV0SKZ",
+        "Product_brand":"Pigeon",
+        "Price":"1,999",
+        "Highlights_1":"type:Manual Gas Stove",
+        "Highlights_2":"Burner Type:Heavy Duty Brass Burner",
+        "Highlights_3":"Number of Burners:3 | Body Material: Glass",
+        "Highlights_4":"Black",
+        "Dimension":"29 cm x 60 cm",
+        "Warranty": "1 Year Warrantry from date of purchase",
+        "Return": "7 Days Return Policy",
+        "Number of Burners":"3",
+        "Ratings":"4.2"
+
+    },
+    {
+        "category_id":3,
+        "category_name":"Home&Funiture",
+        "Sub_category_id":2,
+        "Sub_category_name":"Home Decor",
+        "Product_name":"CW Crafts World Analog 31 cm X 31 cm Wall Clock ",
+        "Product_id":"1",
+        "Product_Img":"https://ibb.co/F4C1D43",
+        "Product_brand":"CW Crafts World ",
+        "Price":"229",
+        "Highlights_1":"Frame Material: Plasti",
+        "Highlights_2":"Clock Type: Analog",
+        "color":"White, Brown",
+        "Weight":"600 g",
+        "Dimension":"Size: 31 cm x 31 cm",
+        "Return": "7 Days Return Policy",
+        "Ratings":"4.2"
+
+    },
+    {
+        "category_id":3,
+        "category_name":"Home&Funiture",
+        "Sub_category_id":3,
+        "Sub_category_name":"Bed Room Furniture",
+        "Product_name":"SPACEWOOD Engineered Wood Queen Hydraulic Bed ",
+        "Product_id":"1",
+        "Product_Img":"https://ibb.co/8jC8D54",
+        "Product_brand":"SPACEWOOD",
+        "Price":"25,490",
+        "Highlights_1":"Bed Material Subtype: Particle Board",
+        "Highlights_2":"W x H x D: 159 cm x 90 cm x 221 cm (5 ft 2 in x 2 ft 11 in x 7 ft 3 in)",
+        "Highlights_3":"Storage Type: Hydraulic ",
+        "Highlights_4":"Recommended Mattress Size: Length = 78 Inch x Width = 60 Inch",
+        "Highlights_5":"Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner",
+        "Dimension":"W x H x D: 159 cm x 90 cm x 221 cm (5 ft 2 in x 2 ft 11 in x 7 ft 3 in)",
+        "Warranty": "36 months on Manufacturing Defect as per Warranty Card T&C's",
+        "Return": "10 Days Replacement Policy",
+        "Ratings":"3.9"
+
+    },
+    {
+        "category_id":3,
+        "category_name":"Home&Funiture",
+        "Sub_category_id":4,
+        "Sub_category_name":"Living Room Furniture",
+        "Product_name":"Bharat Lifestyle Nano L Shape Fabric 6 Seater Sofa  ",
+        "Product_id":"1",
+        "Product_Img":"https://ibb.co/3yHJCDn",
+        "Product_brand":"Bharat Lifestyle",
+        "Price":"18,499",
+        "Highlights_1":"Filling Material: Foam",
+        "Highlights_2":"Right Facing",
+        "Highlights_3":"Delivery Condition: DIY - Basic assembly to be done with simple tools by the customer, comes with instructions",
+        "Dimension":"W x H x D: 259 cm x 76 cm x 83 cm (8 ft 5 in x 2 ft 5 in x 2 ft 8 in)",
+        "Warranty": "1 Year Manufacturing Warranty",
+        "Return": "10 Days Replacement Policy",
+        "Ratings":"3.5"
+
+    }
+    
+
+]

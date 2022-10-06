@@ -1,0 +1,23 @@
+[
+
+    {
+         "category_id":1,
+         "category_name":"mobile",
+         "category_img":"https://ibb.co/K9bKtDW"
+    },
+    {
+        "category_id":2,
+        "category_name":"Beauty",
+        "category_img":"https://ibb.co/F8h59Wz"
+   },
+   {
+        "category_id":3,
+        "category_name":"Home&Funiture",
+        "category_img":"https://ibb.co/FKPvbmR"
+   },
+   {
+        "category_id":4,
+        "category_name":"Grocery",
+        "category_img":"https://ibb.co/hcTpGS0"
+    }
+]
